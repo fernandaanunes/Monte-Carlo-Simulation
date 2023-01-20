@@ -6,10 +6,11 @@ This course is designed to provide a comprehensive understanding of the principl
 
 On this GitHub page, you will find all the materials for the course, including:
 
-Lecture slides
-Sample code and datasets
-Hands-on exercises and projects
-Additional resources for further reading
+1. Lecture slides
+2. Sample code and datasets
+3. Hands-on exercises and projects
+4. Additional resources for further reading
+
 In the first module, we will cover the basic concepts of risk assessment, including the definition of risk and the different types of risk. We will also introduce the concept of Monte Carlo simulation and its role in risk assessment.
 
 In the second module, we will delve into the details of Monte Carlo simulation, including the different types of probability distributions and how to generate random numbers. We will also discuss the importance of statistical measures such as mean and standard deviation in risk assessment.
